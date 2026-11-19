@@ -50,4 +50,4 @@ Assume rede /24.
 Celulares com endereço MAC privado/aleatório aparecem como novos dispositivos.
 Licença
 
-Projeto acadêmico e de portfólio. Defina a licença de sua preferência (ex.: MIT).
+Projeto acadêmico de extensão e de portfólio.
