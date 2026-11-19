@@ -1,0 +1,11 @@
+# Ambiente virtual e caches
+venv/
+__pycache__/
+*.pyc
+
+# Banco de dados local (contém dados da SUA rede: nunca suba para o GitHub)
+database/*.db
+!database/.gitkeep
+
+# Editor
+.vscode/
